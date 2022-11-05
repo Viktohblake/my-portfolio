@@ -36,6 +36,7 @@ theme mode more easier.
 - Animation
 
 # link to the APK or iPA file
+https://drive.google.com/file/d/1whmXQ-E4JZJNtXjXz1l5WxdMqWQfr4gv/view?usp=sharing
 
 # description of the challenges you faced and how you solved them
 - Had error with the gridview widget when runninig the app, found out
