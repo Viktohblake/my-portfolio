@@ -40,3 +40,6 @@ theme mode more easier.
 # description of the challenges you faced and how you solved them
 - Had error with the gridview widget when runninig the app, found out
 I needed to apply a 'shrinkwrap: true' to the gridview.
+
+# A link to the Appetize.io link
+https://appetize.io/app/gbbkqirvvw4mrngejdeb7aqlqq
